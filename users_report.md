@@ -1,19 +1,19 @@
 
 # Data Analysis Report of the Users Dataset
 
-This report provides a comprehensive analysis of the `users.csv` dataset. The
-dataset contains information about users, including their occupation and salary.
-The analysis focuses on understanding the distribution of salaries and the
-variety of occupations present in the dataset.
+This report provides a comprehensive analysis of the `users.csv` dataset. The  
+dataset contains information about users, including their occupation and salary.  
+The analysis focuses on understanding the distribution of salaries and the  
+variety of occupations present in the dataset.  
 
 ## Dataset Characteristics
 
-The `users.csv` dataset is a structured collection of user information with
-columns for ID, first name, last name, occupation, and salary. Each row
-represents a unique user, providing a clear and straightforward format for
-analysis. The dataset appears to be well-organized, without any obvious missing
-values in the key columns of interest, `occupation` and `salary`, making it
-suitable for direct statistical analysis.
+The `users.csv` dataset is a structured collection of user information with  
+columns for ID, first name, last name, occupation, and salary. Each row  
+represents a unique user, providing a clear and straightforward format for  
+analysis. The dataset appears to be well-organized, without any obvious missing  
+values in the key columns of interest, `occupation` and `salary`, making it  
+suitable for direct statistical analysis.  
 
 ## Salary Analysis
 
