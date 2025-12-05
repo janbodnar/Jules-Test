@@ -17,12 +17,12 @@ suitable for direct statistical analysis.
 
 ## Salary Analysis
 
-The salary column represents a key numerical feature in the dataset, with a
-total of 100 entries. The salaries are distributed across a wide range, with
-the lowest recorded at $40,000 and the highest at $150,000. The average salary
-is approximately $75,645, with a standard deviation of about $24,759,
-indicating a significant spread in compensation among the users.
-
+The salary column represents a key numerical feature in the dataset, with a  
+total of 100 entries. The salaries are distributed across a wide range, with  
+the lowest recorded at $40,000 and the highest at $150,000. The average salary  
+is approximately $75,645, with a standard deviation of about $24,759,  
+indicating a significant spread in compensation among the users.  
+  
 ```
 Descriptive Statistics for Numerical Columns:
                id         salary
