@@ -1,0 +1,101 @@
+id,first_name,last_name,occupation,salary
+1,Liam,Miller,Software Engineer,95000.0
+2,Olivia,Davis,Data Scientist,110000.5
+3,Noah,Wilson,UX Designer,82000.0
+4,Emma,Moore,Product Manager,130000.75
+5,Oliver,Taylor,Marketing Specialist,65000.0
+6,Ava,Anderson,Financial Analyst,90000.0
+7,Elijah,Thomas,Systems Administrator,75000.0
+8,Charlotte,Jackson,HR Manager,78000.0
+9,William,White,Sales Representative,60000.0
+10,Sophia,Harris,Project Coordinator,72000.0
+11,James,Martin,Civil Engineer,88000.0
+12,Amelia,Garcia,Chemist,70000.0
+13,Benjamin,Rodriguez,Network Technician,62000.0
+14,Isabella,Lee,Copywriter,55000.0
+15,Lucas,Perez,Mechanical Engineer,92000.0
+16,Mia,Hall,Registered Nurse,71000.0
+17,Henry,Allen,Electrician,58000.0
+18,Evelyn,Young,Librarian,45000.0
+19,Alexander,King,Pilot,150000.0
+20,Harper,Scott,Interior Designer,68000.0
+21,Ethan,Baker,Web Developer,85000.0
+22,Abigail,Green,Physical Therapist,77000.0
+23,Daniel,Adams,Geologist,74000.0
+24,Emily,Nelson,Art Director,98000.0
+25,Jacob,Carter,Lawyer,120000.0
+26,Madison,Mitchell,Teacher,52000.0
+27,Michael,Roberts,Biologist,76000.0
+28,Luna,Campbell,Veterinarian,80000.0
+29,Logan,Parker,Construction Manager,94000.0
+30,Avery,Evans,Journalist,59000.0
+31,Sebastian,Edwards,Chef,48000.0
+32,Chloe,Collins,Paralegal,51000.0
+33,Jack,Stewart,Police Officer,63000.0
+34,Grace,Sanchez,Pharmacist,105000.0
+35,Jackson,Morris,Insurance Agent,54000.0
+36,Scarlett,Rogers,Statistician,97000.0
+37,Aiden,Reed,Firefighter,61000.0
+38,Zoey,Cook,Speech Pathologist,79000.0
+39,Gabriel,Morgan,Auditor,83000.0
+40,Lily,Bell,Realtor,73000.0
+41,Samuel,Murphy,Dentist,140000.0
+42,Layla,Bailey,Massage Therapist,40000.0
+43,Carter,Rivera,Plumber,57000.0
+44,Zoe,Cooper,Market Researcher,69000.0
+45,David,Richardson,Aerospace Engineer,115000.0
+46,Nora,Cox,Medical Assistant,47000.0
+47,Joseph,Howard,HR Specialist,66000.0
+48,Stella,Ward,Curator,53000.0
+49,Matthew,Torres,Electrician,64000.0
+50,Hannah,Peterson,Dietitian,67000.0
+51,Ryan,Gray,IT Support Specialist,50000.0
+52,Eliana,Ramirez,Forensic Scientist,81000.0
+53,Leo,James,Actuary,108000.0
+54,Penelope,Watson,Event Planner,49000.0
+55,Jaxon,Brooks,Architect,102000.0
+56,Victoria,Kelly,Occupational Therapist,75500.0
+57,Adam,Sanders,Financial Advisor,93000.0
+58,Hazel,Price,Marketing Manager,96000.0
+59,Julian,Bennett,Professor,112000.0
+60,Aurora,Wood,Social Worker,56000.0
+61,Theodore,Barnes,Data Analyst,78500.0
+62,Skylar,Ross,Graphic Designer,60500.0
+63,Caleb,Henderson,Drilling Engineer,125000.0
+64,Violet,Coleman,Speech Therapist,70500.0
+65,Asher,Jenkins,Machine Operator,42000.0
+66,Savannah,Perry,Real Estate Appraiser,69500.0
+67,Eli,Powell,Stockbroker,135000.0
+68,Brooklyn,Long,Veterinary Technician,46000.0
+69,Dominic,Patterson,Physical Trainer,41000.0
+70,Emilia,Hughes,School Counselor,64500.0
+71,Grayson,Flores,Automotive Technician,53500.0
+72,Isabelle,Washington,Technical Writer,77500.0
+73,Owen,Butler,Electrician,61500.0
+74,Natalia,Simmons,Operations Manager,101000.0
+75,Aaron,Foster,Laboratory Technician,58500.0
+76,Eleanor,Gonzales,Urban Planner,84000.0
+77,Connor,Bryant,Accountant,79500.0
+78,Allison,Alexander,Museum Technician,44000.0
+79,Landon,Russell,Chef,52500.0
+80,Audrey,Griffin,Dental Hygienist,65500.0
+81,Cole,Diaz,Welder,45500.0
+82,Clara,Hayes,Marketing Coordinator,59500.0
+83,Christian,Myers,Petroleum Engineer,145000.0
+84,Samantha,Ford,Travel Agent,43000.0
+85,Adrian,Hamilton,Forester,62500.0
+86,Madeline,Graham,Photographer,51500.0
+87,Hunter,Sullivan,Paramedic,63500.0
+88,Gabriella,Wallace,Interior Designer,74500.0
+89,Jeremiah,Woods,Aerospace Technician,87000.0
+90,Alice,Cole,Librarian,47500.0
+91,Elias,West,Financial Manager,118000.0
+92,Serenity,Jordan,Copy Editor,56500.0
+93,Robert,Owens,Electrician,68500.0
+94,Kinsley,Fisher,Technical Support Analyst,71500.0
+95,Jonah,Gomez,Civil Engineering Technician,76500.0
+96,Kylie,Murray,Public Relations Specialist,70000.0
+97,Josiah,Harrison,Web Designer,89000.0
+98,Annabelle,Gibson,Museum Archivist,49500.0
+99,Isaiah,Mcdaniel,Security Analyst,99000.0
+100,Ruby,Chambers,School Administrator,91000.0
