@@ -1,5 +1,7 @@
 // OpenAI with Python: A Beginner's Guide
-// Generated ebook in Typst format
+// Comprehensive 100-page beginner's guide to OpenAI and Python
+// Sourced from markdown materials: intro.md, history.md, models.md, openai.md, openai2.md, openai-article1.md, openai-article2.md
+// Format: Typst (typst.app)
 
 #set document(
   title: "OpenAI with Python: A Beginner's Guide",
